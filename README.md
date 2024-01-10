@@ -20,3 +20,21 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathu11&show_icons=true&locale=en&layout=compact" alt="pathu11" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pathu11&show_icons=true&locale=en" alt="pathu11" /></p>
+<hr>
+
+<h3 align="center">GitHub Stats</h3>
+<div id="badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=pathu11&style=flat-square&color=blue" alt=""/>
+</div>
+
+---
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pathu11&theme=github_dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pathu11&theme=github_dark)|![](https://github-readme-streak-stats.herokuapp.com?user=pathu11&theme=dark&border_radius=7&currStreakLabel=0A7BDD&ring=8BDD6D&background=00000002&fire=077BDD&border=3A3A3A&stroke=3A3A3A)|
+|---|---|---|
+
+---
+|[![](https://github-readme-activity-graph.vercel.app/graph?username=pathu11&theme=github-compact)](https://github.com/pathu11/github-readme-activity-graph)|
+|---|
+
+  ---
+  |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pathu11&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pathu11&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pathu11&theme=github_dark)|
+  |---|---|---|
