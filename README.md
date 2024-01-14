@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pathumi Ahinsa</h1>
+<h3 align="center" style="color: #000080">A passionate web  developer from Sri Lanka</h3>
+
+
+<p align="center">
+  <img alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+</p>
+
 <h4 align="center">👨‍💻 I’m a Computer Science undergraduate at the University of Colombo School of Computing</h4>
-
-
-
-<img  width='200px' height="176px" align="center" alt="GIF" src="https://miro.medium.com/v2/resize:fit:640/1*2pORtePzzyTbNXMUQelSCQ.gif" />
-
 - 🔭 I’m currently working on **'Readspot ' Online Book Hub** project.
 
 - 🌱 I’m currently learning **Flutter Framework for mobile app developing**
