@@ -7,10 +7,7 @@
 </p>
 
 <h4 >👨‍💻 I’m a Computer Science undergraduate at the University of Colombo School of Computing</h4>
-- 🔭 I’m currently working on **'Readspot ' Online Book Hub** project.
-
-- 🌱 I’m currently learning **Flutter Framework for mobile app developing**
-
+- 🔭 I’m currently working on the 'HelaEdu' Self-Learning Platform project.
 - 📫 How to reach me **pathuahinsa2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
