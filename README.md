@@ -7,8 +7,8 @@
 </p>
 
 <h4>👨‍💻 I’m a Computer Science undergraduate at the University of Colombo School of Computing</h4>
-- 🔭 I’m currently working at GenVoice as a Backend Developer.  
-- 🧑‍🔬 I’m also a Research Intern at UCSC, focusing on cutting-edge topics in Computer Science.  
+- 🔭 I’m currently working at GenVoice as a Backend Developer.  </br>
+- 🧑‍🔬 I’m also a Research Intern at UCSC, focusing on cutting-edge topics in Computer Science.  </br>
 - 📫 How to reach me: pathuahinsa2001@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
