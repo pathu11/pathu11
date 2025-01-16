@@ -7,13 +7,13 @@
 </p>
 
 <h4>👨‍💻 I’m a Computer Science undergraduate at the University of Colombo School of Computing</h4>
-- 🔭 I’m currently working at **GenVoice** as a Backend Developer.  
+- 🔭 I’m currently working at GenVoice as a Backend Developer.  
 - 🧑‍🔬 I’m also a Research Intern at UCSC, focusing on cutting-edge topics in Computer Science.  
-- 📫 How to reach me: **pathuahinsa2001@gmail.com**  
+- 📫 How to reach me: pathuahinsa2001@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/m-k-p-ahinsa-57871823b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m.k.p.ahinsa" height="30" width="40" /></a>
+<a href="[www.linkedin.com/in/m-k-p-ahinsa](https://www.linkedin.com/in/m-k-p-ahinsa/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m.k.p.ahinsa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
