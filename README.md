@@ -1,42 +1,70 @@
 <h1 align="center">Hi 👋, I'm Pathumi Ahinsa</h1>
-<h3 align="center" style="color: #000080">A passionate web  developer from Sri Lanka</h3>
-
+<h3 align="center" style="color: #000080">AI Engineer | Full-Stack Developer | Researcher</h3>
 
 <p align="center">
   <img alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 </p>
 
-<h4>👨‍💻 I’m a Computer Science undergraduate at the University of Colombo School of Computing</h4>
-- 🔭 I’m currently working at GenVoice as a Backend Developer.  </br>
-- 🧑‍🔬 I’m also a Research Intern at UCSC, focusing on cutting-edge topics in Computer Science.  </br>
-- 📫 How to reach me: pathuahinsa2001@gmail.com 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[www.linkedin.com/in/m-k-p-ahinsa](https://www.linkedin.com/in/m-k-p-ahinsa/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m.k.p.ahinsa" height="30" width="40" /></a>
+<p align="center">
+  <b>Final-year Computer Science undergraduate at the University of Colombo School of Computing (UCSC).</b><br>
+  I specialize in building Agentic AI systems, training Transformer models from scratch, and developing accessible full-stack applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathu11&show_icons=true&locale=en&layout=compact" alt="pathu11" /></p>
+### 🧐 About Me
+- 🔭 **Currently working on:** A Sinhala Text-to-Sign Language Translator using Transformer-based NMT.
+- 💼 **Experience:** - Former **Back-end Developer Intern** at *Emplity*.
+  - Former **Research Intern** at *Mixed Reality Lab, UCSC*.
+- 🧠 **Learning:** Advanced PyTorch workflows, Agentic AI Patterns, and Large Language Model optimization.
+- 🤝 **Open to collaboration on:** AI for Accessibility, NLP for low-resource languages, and Open Source AI tools.
+- 📫 **Reach me:** pathuahinsa2001@gmail.com
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pathu11&show_icons=true&locale=en" alt="pathu11" /></p>
-<hr>
-
-<h3 align="center">GitHub Stats</h3>
-<div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=pathu11&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/m-k-p-ahinsa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/pathumiAhinsa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 ---
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pathu11&theme=github_dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pathu11&theme=github_dark)|![](https://github-readme-streak-stats.herokuapp.com?user=pathu11&theme=dark&border_radius=7&currStreakLabel=0A7BDD&ring=8BDD6D&background=00000002&fire=077BDD&border=3A3A3A&stroke=3A3A3A)|
-|---|---|---|
+
+### 🛠️ Languages and Tools
+I have moved from basic web dev to **Modern AI & Cloud Engineering**.
+
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **AI & ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Frontend** | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 ---
-|[![](https://github-readme-activity-graph.vercel.app/graph?username=pathu11&theme=github-compact)](https://github.com/pathu11/github-readme-activity-graph)|
-|---|
 
-  ---
-  |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pathu11&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pathu11&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pathu11&theme=github_dark)|
-  |---|---|---|
+### 🚀 Featured Projects
+
+#### 🤖 **SportBot (Agentic AI)**
+A real-time Sports Result & Stats Assistant built with a multi-agent architecture (Scout, Stat-Man, Commentator).
+- **Tech:** Python, LLM APIs, Pydantic for strict output validation.
+- **Key Feature:** Prevents hallucinations by strictly separating retrieval from generation.
+
+#### 🗣️ **Sinhala Sign Language NMT**
+A Transformer-based Neural Machine Translation model converted from scratch to translate Sinhala text into Sign Language glosses.
+- **Tech:** PyTorch, Custom Transformer Decoder, CUDA.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pathu11&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="pathu11" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pathu11&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="pathu11" height="150" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pathu11&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
